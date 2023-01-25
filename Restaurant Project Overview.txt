@@ -1,0 +1,21 @@
+What we will learn
+Take a Figma Design and turn it into a beautiful website
+
+From Design > to Development > to Deployment
+Converting FIGMA design into a fully functional Website
+Improve CSS Skills
+Designing a Modern and fully Resposive Website
+Start EASY and then move to more COMPLEX Topics
+React Functional Comonents
+and their re-usability
+React File and folder structure
+Fundamental CSS Properties to MASTER FLEX & GRID
+Fundamentals of CSS BEM Model
+From soft and pleasent Animations to complex gradients 
+Perfectly placed MEDIA queries
+Satisfactory responsiveness, covering almost all devices
+
+Deploy your websites to extremly Fast servers and give them a custom domain Name
+HOSTINGER
+
+Restaurant Name - Gwendolyn
