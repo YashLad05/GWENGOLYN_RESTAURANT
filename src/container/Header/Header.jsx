@@ -1,11 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Header.css';
 
 const Header = () => {
 
-  const [counter, setCounter] = useState(0);
   
   return(
   <div className='app__header app__wrapper section__padding' id='home'>
@@ -22,13 +21,6 @@ const Header = () => {
     <div className="app__wrapper_img">
       <img src={images.welcome} alt="header img" />
     </div>
-    {/* <div className='app__wrapper_info'>
-      <p>Click to Increase counter - {counter}</p>
-      <button onClick = {() => {
-        setCounter(counter + 1 );
-      }}>
-        Increase Counter</button>
-    </div> */}
 
   </div>
   )
